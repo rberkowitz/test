@@ -1,0 +1,6 @@
+Commands:
+
+
+Update FJS: npm i fjs@3.0.1 --save
+Update Slush: npm i -g slush-fjs
+Update Grunt-Flash-Phaser: npm i grunt-flash-phaser@1.0.0 --save-dev
